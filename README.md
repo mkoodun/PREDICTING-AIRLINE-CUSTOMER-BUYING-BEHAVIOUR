@@ -8,7 +8,7 @@ This project uses a Random Forest classifier to predict whether a customer is li
 
 ## Dataset
 
-The dataset is `customer_booking.csv`. It is from the British Airways data science job simulation.
+The dataset is `customer_booking.csv` from the British Airways Data Science job simulation on Forage.
 
 ## Methodology
 
