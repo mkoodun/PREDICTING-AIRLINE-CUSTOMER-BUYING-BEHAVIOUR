@@ -8,7 +8,11 @@ This project uses a Random Forest classifier to predict whether a customer is li
 
 ## Dataset
 
+The dataset is `customer_booking.csv`. It is from the British Airways data science job simulation.
+
 ## Methodology
+
+The full pipeline (data preprocessing, model training, evaluation, and improvements) is documented in the [Jupyter Notebook](https://github.com/mkoodun/PREDICTING-AIRLINE-CUSTOMER-BUYING-BEHAVIOUR/blob/main/Code.ipynb).
 
 ## Tech Stack
 - Python (Jupyter Notebook)
