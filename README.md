@@ -1,6 +1,6 @@
 # PREDICTING-AIRLINE-CUSTOMER-BUYING-BEHAVIOUR
 
-Developping a predictive model to determine the likelihood that a customer will complete a booking for a holiday.
+Developing a predictive model using **Machine Learning** to determine the likelihood that a customer will complete a booking for a holiday.
 
 ## Overview
 
